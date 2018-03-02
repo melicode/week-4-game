@@ -1,0 +1,75 @@
+
+
+
+.firstBox{
+    background-color:#eb6100;
+      color: white;
+      padding: 15px;
+      width: 300px;
+      text-align: center;
+
+}
+
+#secondBox{
+    background-color: #ffcba5;
+      color:green;
+      width: 400px;
+      height: 400px;
+}
+
+#thirdBox{
+    background-color: #00e480;
+    margin-top: 135px;
+      color: purple;
+      width: 200px;
+      height: 100px;
+      float:left;
+}
+
+#thirdBoxright{
+    background-color: #00fff3;
+    color:black;
+      width: 75px;
+      height: 100px;
+      float: left;
+      margin-top: 135px;
+      margin-left: 10px;
+
+}
+
+#blue{
+    clear:both;
+    float:left;
+    margin-top: 15px;
+}
+#red{
+    float:left;
+    margin-top: 15px;
+}
+#multi{
+    float:left;
+    margin-top: 15px;
+}
+
+#green{
+    float: left;
+    margin-top:15px;
+
+}
+
+#blastBox{
+    clear:both;
+    background-color: #009c96;
+    width: 180px;
+    height: 20px;
+    margin-top: 380px;
+
+}
+
+#lastBox{
+    background-color: #009c96;
+      width: 180px;
+      height: 100px;
+      margin-top: 10px;
+
+}
